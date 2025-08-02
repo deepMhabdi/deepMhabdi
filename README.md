@@ -51,7 +51,7 @@
 ### 📬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deep-mhabdi-35b05a294/)
-- 📫 **Email**: deepmhabdi@gmail.com
+- 📫 **Email**: dmmhabdi2701@gmail.com
 
 ---
 
