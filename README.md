@@ -23,8 +23,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [💼 Portfolio Website](https://deepmhabdi.github.io) | My personal developer portfolio hosted using GitHub Pages | HTML, CSS, JS |
-| [🔔 Subscription Tracker](https://github.com/deepMhabdi/Subscription-Tracker) | Node.js mini-project with reminders using Firebase, Upstash & Arcjet | Node.js, Express, Firebase, Stripe, MongoDB |
+| [🔔 Subscription Tracker](https://github.com/deepMhabdi/SubscriptionTracker) | Node.js mini-project with reminders using Firebase, Upstash & Arcjet | Node.js, Express, Firebase, Stripe, MongoDB |
 | [🧠 AI Prompt Projects (WIP)](https://github.com/deepMhabdi?tab=repositories) | Exploring real-world AI & machine vision use cases | Python, OpenCV, Tesseract |
 
 ---
@@ -52,7 +51,6 @@
 ### 📬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deep-mhabdi-35b05a294/)
-- 💼 [Portfolio](https://deepmhabdi.github.io)
 - 📫 **Email**: deepmhabdi@gmail.com
 
 ---
