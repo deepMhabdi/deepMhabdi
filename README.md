@@ -44,13 +44,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+Flask;DevOps+%7C+Docker+Learner;Building+Real+World+Projects+🚀" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepMhabdi&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepMhabdi&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepMhabdi&theme=react" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,flask,docker,git,linux" />
 </p>
+
 
 
 ---
