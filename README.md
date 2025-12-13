@@ -49,10 +49,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepMhabdi&theme=react" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,flask,docker,git,linux" />
 </p>
 
