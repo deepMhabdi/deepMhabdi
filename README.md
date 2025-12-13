@@ -44,10 +44,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepMhabdi&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=deepMhabdi&theme=react" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepMhabdi&theme=react" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepMhabdi&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepMhabdi&theme=react" />
+</p>
+
 
 ---
 
