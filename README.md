@@ -1,86 +1,73 @@
-<h1 align="center">Hi, I'm Deep Mhabdi</h1>
-<h3 align="center">Web Developer • Full Stack Learner • DevOps Explorer</h3>
+<h1 align="center">Hi 👋, I'm Deep Mhabdi</h1>
+<h3 align="center">Web Developer | Full Stack Learner | DevOps Explorer 🚀 | Passionate Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/deepMhabdi">
-    <img src="https://komarev.com/ghpvc/?username=deepMhabdi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=deepMhabdi&label=Profile%20views&color=0e75b6&style=flat" alt="deepMhabdi" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+### 🚀 About Me
 
-I’m a **Computer Science student** with a strong interest in **Web Development** and **DevOps**, focused on building real-world, scalable applications while continuously improving my engineering fundamentals.
-
-- 🎓 Pursuing **Computer Science** at the *University of Mumbai*
-- 💻 Strong interest in **Frontend & Backend Development**
-- 🌱 Currently learning **Node.js, MongoDB, and DevOps fundamentals**
-- 🐳 Exploring **Docker, Linux, CI/CD, and Cloud concepts**
-- 📘 Maintaining a public **DevOps learning log** to track daily progress
-- ⚡ I enjoy simplifying complex problems into clean and efficient solutions
+- 🎓 Pursuing **Computer Science** from *University of Mumbai*  
+- 💻 Passionate about **Web Development** and building scalable applications  
+- 🌐 Built and deployed a personal **portfolio website** using **GitHub Pages**  
+- 🌱 Currently learning: `JavaScript`, `Node.js`, `MongoDB`, and diving deep into **DevOps**  
+- 📒 Documenting my **DevOps Journey** (Linux, Networking, Cloud, CI/CD, Docker, Kubernetes) in a [dedicated repo](https://github.com/deepMhabdi/devops-journey)  
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive solutions  
 
 ---
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
 | Project | Description | Tech Stack |
-|-------|------------|-----------|
-| **[Subscription Tracker](https://github.com/deepMhabdi/SubscriptionTracker)** | Backend-focused Node.js project for managing subscriptions and reminders | Node.js, Express, MongoDB, Firebase, Stripe |
-| **AI Prompt & Vision Projects (WIP)** | Experiments with AI-powered automation and computer vision | Python, OpenCV, Tesseract |
-| **[DevOps Learning Journey](https://github.com/deepMhabdi/Liunx---Networking)** | Public repository documenting Linux, Networking, AWS & CI/CD learnings | Linux, AWS, GitHub Actions |
+|--------|-------------|------------|
+| [🔔 Subscription Tracker](https://github.com/deepMhabdi/SubscriptionTracker) | Node.js mini-project with reminders using Firebase, Upstash & Arcjet | Node.js, Express, Firebase, Stripe, MongoDB |
+| [🧠 AI Prompt Projects (WIP)](https://github.com/deepMhabdi?tab=repositories) | Exploring real-world AI & machine vision use cases | Python, OpenCV, Tesseract |
+| [📓 DevOps Learning Journey](https://github.com/deepMhabdi/Liunx---Networking#) | My public log of daily DevOps learnings (Linux, Networking, AWS, CI/CD) | Linux, AWS, Shell, GitHub |
+| [📓 Flash-Application](https://github.com/deepMhabdi/Flask_Application) | Flask Application made to contanrize docker images and wrote docker-compose.yaml file to upload it on hub.docker.com | Node JS, Express, Python, Flask, Docker-Compose |
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript, Bootstrap
-
-**Backend**
-- Node.js, Express (learning-focused projects)
-- REST API development
-
-**Databases**
-- MongoDB
-- Firebase Firestore
-
-**DevOps & Cloud**
-- Linux (CLI, system basics)
-- Git & GitHub
-- GitHub Actions (CI/CD fundamentals)
-- AWS (EC2, S3, VPC – basics)
-- Docker (learning & containerizing apps)
-
-**Tools**
-- VS Code
-- Postman
-- Git
-- Shell Scripting
-
-**Deployment**
-- GitHub Pages
-- Firebase Hosting
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Backend**: Node.js, Express (Learning)  
+- **Database**: MongoDB, Firebase Firestore  
+- **DevOps & Cloud**: Linux, Git, GitHub Actions, AWS (VPC, EC2, S3), Docker 
+- **Tools**: VS Code, Postman, Git, Shell Scripting  
+- **Deployment**: GitHub Pages, Firebase Hosting, Hostinger 
 
 ---
 
-## 📊 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepMhabdi&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepMhabdi&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepMhabdi&theme=react" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,flask,docker,git,linux" />
+</p>
 
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn**: [linkedin.com/in/deepmhabdi](https://www.linkedin.com/in/deepmhabdi/)
-- 📧 **Email**: dmmhabdi2701@gmail.com
 
 ---
 
-> *“The best way to learn software engineering is by building real projects and improving them continuously.”*
+### 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepmhabdi/)  
+- 📫 **Email**: dmmhabdi2701@gmail.com  
+
+---
+
+> 💡 _"The best way to learn is by building."_ – Currently building my path in **Web Development & DevOps** 🚀
