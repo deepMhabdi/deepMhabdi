@@ -45,10 +45,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepMhabdi&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepMhabdi&theme=react&hide_border=true" />
 </p>
 
