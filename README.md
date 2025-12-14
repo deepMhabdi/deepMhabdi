@@ -15,7 +15,7 @@
 - 💻 Passionate about **Web Development** and building scalable applications  
 - 🌐 Built and deployed a personal **portfolio website** using **GitHub Pages**  
 - 🌱 Currently learning: `JavaScript`, `Node.js`, `MongoDB`, and diving deep into **DevOps**  
-- 📒 Documenting my **DevOps Journey** (Linux, Networking, Cloud, CI/CD, Docker, Kubernetes) in a [dedicated repo](https://github.com/deepMhabdi/devops-journey)  
+- 📒 Documenting my **DevOps Journey** (Linux, Networking, Cloud, CI/CD, Docker, Kubernetes). 
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive solutions  
 
 ---
