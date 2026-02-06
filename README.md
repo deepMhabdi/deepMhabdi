@@ -28,8 +28,8 @@
 | [🧠 AI Prompt Projects (WIP)](https://github.com/deepMhabdi?tab=repositories) | Exploring real-world AI & machine vision use cases | Python, OpenCV, Tesseract |
 | [📓 DevOps Learning Journey](https://github.com/deepMhabdi/Liunx---Networking#) | My public log of daily DevOps learnings (Linux, Networking, AWS, CI/CD) | Linux, AWS, Shell, GitHub |
 | [📓 Flash-Application](https://github.com/deepMhabdi/Flask_Application) | Flask Application made to contanrize docker images and wrote docker-compose.yaml file to upload it on hub.docker.com | Node JS, Express, Python, Flask, Docker-Compose |
-| [📓 Jenkins-Application](https://github.com/deepMhabdi/CI-CD_Project) | The pipeline is implemented using Jenkins on an AWS EC2 instance, with PM2 used as a process manager to keep applications running continuously. Every push to GitHub can trigger automated deployment, ensuring faster and reliable updates. |
-| [📓 K8's Application](https://github.com/deepMhabdi/k8-s-tutorial) | Hands-on guide to deploy a Flask backend + Express.js frontend full-stack application on Kubernetes. Perfect for learning containerization, microservices, deployments, services, and ingress routing. |
+| [📓 Jenkins-Application](https://github.com/deepMhabdi/CI-CD_Project) | The pipeline is implemented using Jenkins on an AWS EC2 instance, with PM2 used as a process manager to keep applications running continuously. Every push to GitHub can trigger automated deployment, ensuring faster and reliable updates. | CI/CD, Jenkins, AWS, EC2, Flask, Express |
+| [📓 K8's Application](https://github.com/deepMhabdi/k8-s-tutorial) | Hands-on guide to deploy a Flask backend + Express.js frontend full-stack application on Kubernetes. Perfect for learning containerization, microservices, deployments, services, and ingress routing. | Kubernetes, Ingress, Docker, Git, Pods |
 
 ---
 
